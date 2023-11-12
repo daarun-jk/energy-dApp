@@ -1,0 +1,13 @@
+.footerc {
+  text-align: center;
+  font-size: larger;
+  padding: 10px;
+  height: 100%;
+  color: rgb(66, 56, 43);
+}
+body {
+  /* background-image: url("./assets/1.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%; */
+  background-color: #faf9f9;
+}

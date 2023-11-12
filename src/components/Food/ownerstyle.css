@@ -1,0 +1,27 @@
+.sidenav2 {
+  height: 100%;
+  width: 25%;
+  position: fixed;
+  right: 1%;
+  background-color: azure;
+  opacity: 0.9;
+  margin: 1%;
+  padding: 1.5%;
+  text-align: left;
+}
+.food_dishes {
+  height: 80%;
+  width: 73%;
+  position: fixed;
+  left: 0.5%;
+  overflow-x: hidden;
+  padding-top: 1%;
+  padding: 0.25%;
+}
+.form_componentsf {
+  margin-top: 1%;
+  margin-bottom: 4%;
+}
+.food-item-buttons {
+    margin: 2%;
+}
